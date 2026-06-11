@@ -18,7 +18,7 @@
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## About Me
-  Front-End developer with Full-Stack experience, passionate about building intuitive and engaging digital experiences. I enjoy transforming ideas into user-friendly interfaces while ensuring that applications are functional, efficient, and maintainable.
+  I'm a Full-Stack developer, passionate about building intuitive and engaging digital experiences. I enjoy transforming ideas into user-friendly interfaces while ensuring that applications are functional, efficient, and maintainable.
 
   I have developed academic and personal projects using technologies such as React, JavaScript, TypeScript, Java, Spring Boot, Node.js, MySQL, PostgreSQL, and Unity. My experience ranges from creating responsive web interfaces and RESTful integrations to building complete applications and interactive experiences.
 
